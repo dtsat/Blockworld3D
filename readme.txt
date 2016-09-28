@@ -3,10 +3,10 @@ COMP 371 WINTER 2016 - TERM PROJECT - BLOCK WORLD 3D
 I . The team
 --------------
 
-David Tsatsoulis - 25410029
-Simon Jacques - 27046677
-Tri-Luong Steven Dien - 27415281
-Pierre-Olivier Jourdenais - 26987540
+David Tsatsoulis
+Simon Jacques 
+Tri-Luong Steven Dien 
+Pierre-Olivier Jourdenais 
 
 II. Block World 3D
 ------------------
